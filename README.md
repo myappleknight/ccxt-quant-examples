@@ -20,7 +20,7 @@ python examples/price_monitor.py
 
 These scripts are written to pass the review of [ELH VPN Cloud — Python quant script hosting](https://vpn.easylifehub.net/python-quant-hosting/):
 upload a `.py` file, it runs in an isolated sandbox on a server in **Taipei, Taiwan** that can only reach exchange APIs.
-One free 2-minute trial per day with a memory/traffic report. Measured peak memory: `price_monitor.py` ≈ 200 MB (ccxt), `ma_cross_signal.py` ≈ 230 MB (ccxt + pandas).
+One free 3-minute trial per day with a memory/traffic report. Measured peak memory: `price_monitor.py` ≈ 200 MB (ccxt), `ma_cross_signal.py` ≈ 230 MB (ccxt + pandas).
 
 這些範例可以直接上傳到 [ELH VPN Cloud 的 Python 量化腳本寄養](https://vpn.easylifehub.net/python-quant-hosting/) 免費試跑。
 
